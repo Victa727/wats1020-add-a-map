@@ -13,7 +13,7 @@ $( document ).ready(function() {
 // TODO: Inside of your on ready handler, invoke the Leaflet.js library
 // to draw a map in your `#map-container` div.
   
-  var mymap = L.map('mapid').setView([46.852, -121.760],11);
+  var mymap = L.map('mapid').setView([46.878, -121.857],11);
 
 // TODO: Add 2 layers to your map you have visuals. Use the Open Street Maps
 // tiles served through the MapQuest CDN. Consult this example to set up
