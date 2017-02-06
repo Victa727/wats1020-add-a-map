@@ -2,7 +2,12 @@
    Author's custom styles
    ========================================================================== */
 
-#map-container { height: 180px; }
+#map-container { height: 250px; }
+
+.item img {
+  max-height: 400px;
+  margin: auto;
+}
 
 
 
